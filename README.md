@@ -1,6 +1,8 @@
 - Hi, I’m @sourabhbiradar
-- its my second repo
 - Go lang developer
 - sourabhbiradar@outlook.com
+- Tutor Repo ;)
+- Here to make Go easy to learn
+
 
 
